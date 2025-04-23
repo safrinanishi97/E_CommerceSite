@@ -1,0 +1,51 @@
+[
+  {
+    "id": "PROD_1",
+    "product_title": "Perfume",
+    "product_price": 1250,
+    "product_description": "The Perfume - Vegan Beauty with Easy to Use Products",
+    "image_path": "uploads/perfume.jpg"
+  },
+  {
+    "id": "PROD_2",
+    "product_title": "Lipstick",
+    "product_price": 550,
+    "product_description": "",
+    "image_path": "uploads/lipstick.jpg"
+  },
+  {
+    "id": "PROD_3",
+    "product_title": "Moisturizer Cream",
+    "product_price": 1450,
+    "product_description": "Moisturizer with Hyluronic acid and niacinamide",
+    "image_path": "uploads/moistu.jpg"
+  },
+  {
+    "id": "PROD_4",
+    "product_title": "Foundation",
+    "product_price": 800,
+    "product_description": "Insight Cosmetics Matte Finish Full Cover Foundation-LN08",
+    "image_path": "uploads/foundation.jpg"
+  },
+  {
+    "id": "PROD_5",
+    "product_title": "Lotion",
+    "product_price": 1500,
+    "product_description": "Blekii Beauty Fragrant Body Lotion",
+    "image_path": "uploads/lotions.jpg"
+  },
+  {
+    "id": "PROD_7",
+    "product_title": "Body Wash",
+    "product_price": 900,
+    "product_description": "Homemade Body Wash - Grapefruit Mint - Cultured Palate",
+    "image_path": "uploads/bodyw.jpg"
+  },
+  {
+    "id": "PROD_1740532087181_527",
+    "product_title": "Eye-Liner",
+    "product_price": "1200",
+    "product_description": "Water-proof kajal",
+    "image_path": "uploads/product-1740532087178.jpg"
+  }
+]
